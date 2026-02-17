@@ -1,14 +1,11 @@
 Как скачать
+
 Нажать кпопку code на странице репозитория
 <img width="950" height="587" alt="image" src="https://github.com/user-attachments/assets/6839d125-02de-4393-9b2e-06c95af550ad" />
-
-
-
-
-
-
-
-
+Нажать кнопку скачать zip
+Разархивировать
+открыть cmd
+Написать py kalkulator.py
 
 
 
