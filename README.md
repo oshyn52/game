@@ -6,6 +6,8 @@
 Нажать кнопку скачать zip
 
 Разархивировать
+<img width="407" height="557" alt="image" src="https://github.com/user-attachments/assets/bcbd5694-6cb0-4b37-988a-0a094006fee1" />
+
 
 открыть cmd
 
