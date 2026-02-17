@@ -18,6 +18,8 @@
 Главный экран
 <img width="394" height="580" alt="Снимок экрана 2026-02-17 145728" src="https://github.com/user-attachments/assets/a022cb4a-d22f-474a-a320-5e93fef157cc" />
 
+
+
 Пример вычисления
 <img width="393" height="576" alt="calculation" src="https://github.com/user-attachments/assets/700f4533-9795-45d7-8c3a-81db22c0c93e" />
 
